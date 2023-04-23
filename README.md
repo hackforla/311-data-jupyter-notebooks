@@ -6,7 +6,7 @@ JupyterLite deployed as a static site to GitHub Pages, for demo purposes.
 
 ## ✨ Try it in your browser ✨
 
-[github-pages](https://chelseybeck.github.io/jupiterlite-demo/)
+[github-pages](https://hackforla.github.io/jupyter-ghpages-test/lab/index.html)
 
 ➡️ **https://jupyterlite.github.io/demo**
 
