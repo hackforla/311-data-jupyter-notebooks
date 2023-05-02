@@ -1,4 +1,16 @@
 ## LA 311 Data
+* [Los Angeles 311 Data (2023)](https://data.lacity.org/City-Infrastructure-Service-Requests/MyLA311-Service-Request-Data-2023/4a4x-mna2)
+
+| Field | Description |
+-------- | --------------------
+| Title | MyLA311 Service Request Data 2023 |
+| Creator | City of Los Angeles - Information Technology Agency |
+| Attribution | CC0 1.0 Universal |
+| Dates | Published Date: Feb 2, 2023; Updated Date: Apr 20, 2023 |
+| Location | Los Angeles |
+| File Formats | csv, kml, shapefile, geojson | 
+| Variables List | request number, request created date, request update date, action taken, request owner, request type, request status, request source, request user organization, request mobile os, anonymous flag, request department assignment, request service date, request closed date,request address verification flag, request approximate address, address,house number, direction, street name, suffix, zip code, latitude, longitude, tbm page, tbm row,  area planning commission, apc code, cd member, neighbood council name, nc code,police precint  |
+
 * [Los Angeles 311 Data (2022)](https://data.lacity.org/City-Infrastructure-Service-Requests/MyLA311-Service-Request-Data-2022/i5ke-k6by)
 
 | Field | Description |
@@ -6,7 +18,32 @@
 | Title | MyLA311 Service Request Data 2022 |
 | Creator | City of Los Angeles - Information Technology Agency |
 | Attribution | CC0 1.0 Universal |
-| Dates | Published Date: Jan 5, 2022; Updated Date: Jul 21, 2022 |
+| Dates | Published Date: Jan 5, 2022; Updated Date: May 2, 2023 |
+| Location | Los Angeles |
+| File Formats | csv, kml, shapefile, geojson | 
+| Variables List | request number, request created date, request update date, action taken, request owner, request type, request status, request source, request user organization, request mobile os, anonymous flag, request department assignment, request service date, request closed date,request address verification flag, request approximate address, address,house number, direction, street name, suffix, zip code, latitude, longitude, tbm page, tbm row,  area planning commission, apc code, cd member, neighbood council name, nc code,police precint  |
+
+* [Los Angeles 311 Data (2021)](https://data.lacity.org/City-Infrastructure-Service-Requests/MyLA311-Service-Request-Data-2021/97z7-y5bt)
+
+| Field | Description |
+-------- | --------------------
+| Title | MyLA311 Service Request Data 2021 |
+| Creator | City of Los Angeles - Information Technology Agency |
+| Attribution | CC0 1.0 Universal |
+| Dates | Published Date: Jan 19, 2021; Updated Date: May 2, 2023 |
+| Location | Los Angeles |
+| File Formats | csv, kml, shapefile, geojson | 
+| Variables List | request number, request created date, request update date, action taken, request owner, request type, request status, request source, request user organization, request mobile os, anonymous flag, request department assignment, request service date, request closed date,request address verification flag, request approximate address, address,house number, direction, street name, suffix, zip code, latitude, longitude, tbm page, tbm row,  area planning commission, apc code, cd member, neighbood council name, nc code,police precint  |
+
+
+* [Los Angeles 311 Data (2020)](https://data.lacity.org/City-Infrastructure-Service-Requests/MyLA311-Service-Request-Data-2020/rq3b-xjk8)
+
+| Field | Description |
+-------- | --------------------
+| Title | MyLA311 Service Request Data 2020 |
+| Creator | City of Los Angeles - Information Technology Agency |
+| Attribution | CC0 1.0 Universal |
+| Dates | Published Date: Jan 9, 2020; Updated Date: May 2, 2023 |
 | Location | Los Angeles |
 | File Formats | csv, kml, shapefile, geojson | 
 | Variables List | request number, request created date, request update date, action taken, request owner, request type, request status, request source, request user organization, request mobile os, anonymous flag, request department assignment, request service date, request closed date,request address verification flag, request approximate address, address,house number, direction, street name, suffix, zip code, latitude, longitude, tbm page, tbm row,  area planning commission, apc code, cd member, neighbood council name, nc code,police precint  |
