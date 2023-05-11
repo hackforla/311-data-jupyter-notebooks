@@ -6,7 +6,7 @@ JupyterLite deployed as a static site to GitHub Pages. This repository contains 
 
 ➡️ **https://hackforla.github.io/311-data-jupyter-notebooks/lab/index.html**
 
-![github-pages](https://user-images.githubusercontent.com/591645/120649478-18258400-c47d-11eb-80e5-185e52ff2702.gif)
+![github-pages](https://github.com/hackforla/311-data-jupyter-notebooks/blob/main/content/browser-example.png)
 
 ## Requirements
 
