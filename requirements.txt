@@ -44,5 +44,8 @@ ipyleaflet
 # Python: plotting libraries (optional)
 plotly>=5,<6
 bqplot
-numpy
 seaborn
+
+# Python: additional libraries
+pyarrow
+pyarrow.parquet
