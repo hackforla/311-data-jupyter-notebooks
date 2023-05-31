@@ -49,3 +49,4 @@ seaborn
 # Python: additional libraries
 pyarrow
 pyarrow.parquet
+--upgrade pexpect
