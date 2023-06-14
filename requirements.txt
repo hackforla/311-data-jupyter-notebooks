@@ -47,6 +47,5 @@ bqplot
 seaborn
 
 # Python: additional libraries
-pyarrow
-pyarrow.parquet
---upgrade pexpect
+#pyarrow - adding to gh actions workflow
+pexpect==4.8
